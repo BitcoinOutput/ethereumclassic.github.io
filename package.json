@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.12",
     "dayjs": "^1.11.5",
     "flag-icon-css": "^4.1.6",
-    "gatsby": "4.25.4",
+    "gatsby": "5.9.0",
     "gatsby-plugin-algolia": "^0.26.0",
     "gatsby-plugin-env-variables": "^2.2.0",
     "gatsby-plugin-feed": "4.24.0",
@@ -64,6 +64,6 @@
     "@emotion/styled": "^11.10.4",
     "eslint-config-react-app": "^6.0.0",
     "gatsby-plugin-emotion": "^7.24.0",
-    "twin.macro": "^2.8.2"
+    "twin.macro": "^3.0.0"
   }
 }
